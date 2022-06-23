@@ -1,4 +1,4 @@
 # Button Submit
 
-- Botão de confrimado com animação em css.
+- Botão de confirmado com animação em css.
 - Usando focus.
